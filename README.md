@@ -14,16 +14,16 @@
   <br />
   <p align="center">
     <!-- <img src="doc/setup.png" width=99% /> -->
-  <div class="container">
+  <!-- <div class="container"> -->
     <img src="./results/MPE/simple_spread/rmappo/models/obs_2/render_20230920210334.gif" alt="drawing" width="175"/>
     <!-- <figcaption>2 agents.</figcaption> -->
     <img src="./results/MPE/simple_spread/rmappo/models/obs_4/render_20230920210235.gif" alt="drawing" width="175"/>
     <!-- <figcaption>4 agents.</figcaption> -->
     <img src="./results/MPE/simple_spread/rmappo/models/obs_6/render_20230920210207.gif" alt="drawing" width="175"/>
     <!-- <figcaption>6 agents.</figcaption> -->
-    <img src="./results/MPE/simple_spread/rmappo/models/obs_8/render_20230920210043.gif" alt="drawing" width="175"/>
+    <img src="./results/MPE/simple_spread/rmappo/models/obs_8/render_20230920210043.gif" alt="drawing" width="175"/> <br>
     <figcaption>Simple-Spread task: Agents with different partial observation settings can achieve comparable performance with near-optimality. From left to right: agents can observe nearby 2, 4, 6, 8 agents.</figcaption>
-  </div>
+  <!-- </div> -->
 
   </p>
 
